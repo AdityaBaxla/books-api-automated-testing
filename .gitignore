@@ -25,4 +25,4 @@ Thumbs.db
 
 
 # Prevent private tests from being pushed to the student-facing repo
-# test/private/
+test/private/
